@@ -1,5 +1,5 @@
 # Analise de vendas 
-Esse projeto apresenta uma analise de vendas em uma empresa do segmento de informática e aletrônica, com nove filiais filias no Brasil, espelhadas em estados diferentes.
+Esse projeto apresenta uma análise de vendas em uma empresa do segmento de informática e eletrônica, com nove filiais no Brasil, espalhadas em estados diferentes.
 
 > ESTATUS DO PROJETO: concluido 
 
